@@ -1,0 +1,18 @@
+2020-09-25T10:23:56+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:24:05+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:24:19+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:24:25+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:24:28+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:24:36+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:25:11+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:25:18+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+
+2020-09-25T10:25:26+00:00 CRITICAL Cannot declare class WC_Braintree_Payment_Gateway, because the name is already in use in /www/wwwroot/wowacase.com/wp-content/plugins/woo-payment-gateway/includes/abstract/abstract-class-wc-braintree-payment-gateway.php on line 16
+

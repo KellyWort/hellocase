@@ -1,0 +1,240 @@
+2020-10-09T00:02:19+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T00:29:01+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T00:31:40+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T00:56:56+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T01:07:45+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T01:24:52+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T01:38:55+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T01:51:47+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T02:05:39+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T02:17:06+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T02:31:25+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T02:46:06+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T03:07:25+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T03:18:57+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T03:32:29+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T03:46:39+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T04:01:41+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T04:17:18+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T04:31:06+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T04:47:51+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T05:01:57+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T05:17:30+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T05:31:10+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
+2020-10-09T05:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function WP_Filesystem() in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php:217
+Stack trace:
+#0 /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php(586): JsDelivrCdn::get_jsdelivr_source_url()
+#1 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(287): JsDelivrCdn::analyze()
+#2 /www/wwwroot/wowacase.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /www/wwwroot/wowacase.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#4 /www/wwwroot/wowacase.com/wp-cron.php(138): do_action_ref_array()
+#5 {main}
+  thrown in /www/wwwroot/wowacase.com/wp-content/plugins/plugin-wordpress-master/classes/class-jsdelivrcdn.php on line 217
+
